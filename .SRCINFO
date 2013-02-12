@@ -1,0 +1,13 @@
+pkgbase = kdm-theme-caledonia
+	pkgdesc = A minimalist and elegant kdm theme
+	pkgver = 1.0
+	pkgrel = 1
+	url = http://sourceforge.net/projects/caledonia/
+	arch = any
+	license = CCPL
+	depends = kdebase-workspace
+	source = kdm-theme-caledonia-1.0.tar.gz::http://downloads.sourceforge.net/project/caledonia/Caledonia%20KDM/Caledonia-KDM.tar.gz
+	sha256sums = b74fb587be30a30dc61c9817733a29a20c6ab754932fa938b25a8a38cd0dce72
+
+pkgname = kdm-theme-caledonia
+
