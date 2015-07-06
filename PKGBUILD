@@ -1,6 +1,6 @@
 pkgname=kdm-theme-caledonia
 pkgver=1.3
-pkgrel=1
+pkgrel=2
 pkgdesc="A minimalist and elegant kdm theme"
 arch=('any')
 url='http://sourceforge.net/projects/caledonia/'
